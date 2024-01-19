@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Beats-333.svg?logo=beats&style=flat">
 </div>
 <div>
-<img src="https://img.shields.io/badge/-GAS-333.svg?logo=googleappsscript&style=flat">
+<img src="https://img.shields.io/badge/-Google Apps Script-333.svg?logo=googleappsscript&style=flat">
 <img src="https://img.shields.io/badge/-GitHubActions-333.svg?logo=githubactions&style=flat">
 <img src="https://img.shields.io/badge/-Pytest-333.svg?logo=pytest&style=flat">
 <img src="https://img.shields.io/badge/-Selenium-333.svg?logo=selenium&style=flat">
