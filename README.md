@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
 <img src="https://img.shields.io/badge/-Java-333.svg?logo=java&style=flat">
 <img src="https://img.shields.io/badge/-PostgreSQL-333.svg?logo=postgresql&style=flat">
-<img src="https://img.shields.io/badge/-DBeaver-333.svg?logo=dbeaver&style=flat">
-<img src="https://img.shields.io/badge/-Postman-333.svg?logo=postman&style=flat">
 </div>
 <div>
 <img src="https://img.shields.io/badge/-AWS-333.svg?logo=amazonaws&style=flat">
@@ -82,6 +80,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-LINE-333.svg?logo=line&style=flat">
 <img src="https://img.shields.io/badge/-Markdown-333.svg?logo=markdown&style=flat">
 <img src="https://img.shields.io/badge/-Mermaid-333.svg?logo=mermaid&style=flat">
+<img src="https://img.shields.io/badge/-DBeaver-333.svg?logo=dbeaver&style=flat">
+<img src="https://img.shields.io/badge/-Postman-333.svg?logo=postman&style=flat">
 </div>
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ganechi)](https://github.com/ganechi)
