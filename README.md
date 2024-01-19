@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/-OpenAI-333.svg?logo=openai&style=flat">
 <img src="https://img.shields.io/badge/-VSCode-333.svg?logo=visualstudiocode&style=flat">
-<img src="https://img.shields.io/badge/-Github-333.svg?logo=github&style=flat">
-<img src="https://img.shields.io/badge/-Gitlab-333.svg?logo=gitlab&style=flat">
+<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">
+<img src="https://img.shields.io/badge/-GitLab-333.svg?logo=gitlab&style=flat">
 <img src="https://img.shields.io/badge/-Slack-333.svg?logo=slack&style=flat">
 <img src="https://img.shields.io/badge/-LINE-333.svg?logo=line&style=flat">
 <img src="https://img.shields.io/badge/-Markdown-333.svg?logo=markdown&style=flat">
