@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-EC2-333.svg?logo=amazonec2&style=flat">
 <img src="https://img.shields.io/badge/-ECS-333.svg?logo=amazonecs&style=flat">
 <img src="https://img.shields.io/badge/-Lambda-333.svg?logo=awslambda&style=flat">
+<img src="https://img.shields.io/badge/-CloudWatch-333.svg?logo=amazoncloudwatch&style=flat">
 <img src="https://img.shields.io/badge/-GCP-333.svg?logo=googlecloud&style=flat">
 <img src="https://img.shields.io/badge/-Firebase-333.svg?logo=firebase&style=flat">
 <img src="https://img.shields.io/badge/-Docker-333.svg?logo=docker&style=flat">
