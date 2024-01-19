@@ -57,6 +57,15 @@ Here are some ideas to get you started:
 </div>
 <div>
 <img src="https://img.shields.io/badge/-Google Apps Script-333.svg?logo=googleappsscript&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googledrive&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googledocs&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googlesheets&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googleslides&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googleforms&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googlecalendar&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googlemeet&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googleclassroom&style=flat">
+<img src="https://img.shields.io/badge/--333.svg?logo=googleanalytics&style=flat">
 <img src="https://img.shields.io/badge/-GitHubActions-333.svg?logo=githubactions&style=flat">
 <img src="https://img.shields.io/badge/-Pytest-333.svg?logo=pytest&style=flat">
 <img src="https://img.shields.io/badge/-Selenium-333.svg?logo=selenium&style=flat">
@@ -68,7 +77,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Gitlab-333.svg?logo=gitlab&style=flat">
 <img src="https://img.shields.io/badge/-Slack-333.svg?logo=slack&style=flat">
 <img src="https://img.shields.io/badge/-LINE-333.svg?logo=line&style=flat">
-<img src="https://img.shields.io/badge/-GoogleDrive-333.svg?logo=googledrive&style=flat">
 <img src="https://img.shields.io/badge/-Markdown-333.svg?logo=markdown&style=flat">
 <img src="https://img.shields.io/badge/-Mermaid-333.svg?logo=mermaid&style=flat">
 </div>
