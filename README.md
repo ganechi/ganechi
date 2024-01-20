@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Mermaid-333.svg?logo=mermaid&style=flat">
 <img src="https://img.shields.io/badge/-DBeaver-333.svg?logo=dbeaver&style=flat">
 <img src="https://img.shields.io/badge/-Postman-333.svg?logo=postman&style=flat">
+<img src="https://img.shields.io/badge/-Swagger-333.svg?logo=swagger&style=flat">
 </div>
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ganechi)](https://github.com/ganechi)
