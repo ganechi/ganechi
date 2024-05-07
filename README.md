@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img alt="Top Langs" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganechi&theme=github"/>
+  <img alt="Top Langs" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganechi&theme=github"/>
 </div>
 
 <!-- 技術スタック -->
